@@ -1,4 +1,4 @@
-# SQL Query Exercise 8
+# SQL Query - Customer Balance Data
 
 **CIS 310 | SQL**
 
